@@ -2,7 +2,7 @@
 ---
 ### Purpose:
 This Repo is to keep track of my progress in c programming.  
->I'm new to c programming and here's the repo i'll be keeping tabs on my ** progress ** and **practice** projects.  
+>I'm new to c programming and here's the repo i'll be keeping tabs on my ***progress*** and ***practice*** projects.  
 >I hope to be a great Software Engineer and work for great companies!
 ---
 ![C-Programming by Saviour Eking](https://wallpapercave.com/wp/wp3295258.png)
